@@ -83,3 +83,6 @@ The main objective of this project is to analyze BMW’s sales performance and i
 # Conclusion
 
 This dashboard provides a clear and interactive view of BMW sales performance. It helps stakeholders understand market behavior, improve decision-making, and plan future strategies effectively.
+![PHOTO-2026-02-17-01-01-10](https://github.com/user-attachments/assets/7d951fba-ba7a-48e5-909d-90586128e604)
+![PHOTO-2026-02-17-01-01-21](https://github.com/user-attachments/assets/b5fef952-9ddc-4b3a-a9e5-c0ae7ed91561)
+
